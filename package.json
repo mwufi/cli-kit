@@ -1,5 +1,5 @@
 {
-  "name": "@astrojs/cli-kit",
+  "name": "@mwufi/cli-kit",
   "type": "module",
   "version": "0.4.1",
   "license": "MIT",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/withastro/cli-kit.git"
+    "url": "https://github.com/mwufi/cli-kit.git"
   },
   "scripts": {
     "build": "tsc -p ."

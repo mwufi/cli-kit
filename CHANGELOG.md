@@ -1,4 +1,5 @@
-# @astrojs/cli-kit
+# @mwufi/cli-kit
+# Fork of @astrojs/cli-kit
 
 ## 0.4.1
 
@@ -13,7 +14,7 @@
 - fbec51e: Adds a new `tasks` utility that displays a spinner for multiple, sequential tasks.
 
   ```js
-  import { tasks } from "@astrojs/cli-kit";
+  import { tasks } from "@mwufi/cli-kit";
 
   const queue = [
     {
